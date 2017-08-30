@@ -1,3 +1,2 @@
-# ripple-wallet homepage
-
-comming soon...
+- [English](/ripple-wallet/en/)
+- [日本語](/ripple-wallet/ja/)
