@@ -5,9 +5,9 @@
 
 ## What is this?
 
-[Ripple Wallet Chrome Extension](https://chrome.google.com/webstore/detail/ripple-wallet/pbdihppojjickcoendiloibpjokjaobc)  
+[Ripple Wallet Chrome Extension](https://chrome.google.com/webstore/detail/ripple-wallet/pbdihppojjickcoendiloibpjokjaobc) (Link to Chrome Webstore)  
   
-A wallet app for XRP and other assets of RCL. It is made as chrome extension.
+A wallet app for XRP and other assets on RCL. It is made as chrome extension.
 By using this app, you can easily send and trade XRP and other assets issued by gateway you trust.
 All transactions are signed on your local, it never sends your private key to network so that it is kept secure.
 

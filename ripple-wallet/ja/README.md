@@ -4,7 +4,7 @@
 
 ## これはなんですか？
 
-[Chrome拡張機能のRipple用ウォレット](https://chrome.google.com/webstore/detail/ripple-wallet/pbdihppojjickcoendiloibpjokjaobc?hl=ja&gl=JP)  
+[Chrome拡張機能のRipple用ウォレット](https://chrome.google.com/webstore/detail/ripple-wallet/pbdihppojjickcoendiloibpjokjaobc?hl=ja&gl=JP) (Chromeウェブストアへのリンク)  
 
 これはXRPやRippleのアセットを簡単に送金したり取引したりできるようになるChrome拡張機能です。
 このツールは、Ripple Consensus Ledger上での基本的な機能をほぼ全て網羅しています。
