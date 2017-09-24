@@ -16,6 +16,7 @@ All transactions are signed on your local, it never sends your private key to ne
 
 + Wallet
 + Payment XRP and assets
++ XRP Chart
 + Escrow
 + Exchange
 + Transaction notification
