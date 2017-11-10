@@ -1,0 +1,42 @@
+# Bitcoin Wallet Chrome Extension 
+  
+  by [akirattii](https://plus.google.com/+AkiraTanakaakirattii)
+
+## What is this?
+
+[Bitcoin Wallet Chrome Extension](https://chrome.google.com/webstore/detail/bitcoin-wallet/hhcbajigejlknfnpfpckkfojjbbgflej) (Link to Chrome Webstore)  
+  
+A bitcoin wallet chrome extension.
+By using this app, you can send & receive BTC so easily.
+All transactions are signed on your local, so it NEVER sends your privateKey to the network. Hence it's secure!
+
+
+## Main features
+
+- Simple BTC Sending
+- Sending to multiple destinations
+- BTC Market Rate & Chart
+- Detailed Transactions View 
+- Addressbook
+- Keypair Generator
+
+
+## Secure!
+
+This wallet keeps your privateKey secure.
+All tx are signed locally before you broadcast them, so NEVER sends your privateKey to the network.
+Your privateKey is encrypted by an arbitrary passphrase that decided by yourself, then saved on your local disk safely. Of course, you can also remove it easily from your local disk if you want to.
+
+
+## FAQ
+
+> Where is my private key stored?
+
+Your privateKey is encrypted by your passphrase which is decided by yourself at first boot, then saved on localStorage of Chrome browser. So it is secure. Of course, you can also remove it from local easily whenever you want.
+
+
+## Donation
+
+You like it? Please donate me from `Thanks!` page on this extension. It is a great motivation for my countinuous development. 
+  
+Thank you!
