@@ -30,6 +30,13 @@ All transactions are signed on your local, it never sends your private key to ne
 
 Your private key is encrypted by your passphrase then saved on localStorage of Chrome browser, so it is secure. Of course, you can also remove it from local whenever you want.
 
+> Oops! I've entered incorrect passphrase!
+
+If you have entered incorrect passphrase on the entrance screen, your encrypted secret seed on your local disk is removed for a security reason. However you can restore your wallet to set your secret seed again on th settings menu if you know your secret seed yet.
+
+> I've forgotten my secret seed...
+
+Unfortunately, that is The END as usual with other cryptocurrencies. Just in case we recommend you save your secret seed as a screenshot image or a paper wallet on the safety place like a USB memory or your real wallet.
 
 ## Donation
 
