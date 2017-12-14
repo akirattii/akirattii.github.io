@@ -42,6 +42,12 @@ If you have entered incorrect passphrase on the entrance screen, your encrypted 
 Unfortunately, that is The END as usual with other cryptocurrencies. Just in case we recommend you save your privateKey as a screenshot image or a paper wallet on the safety place like a USB memory or your real wallet.
 
 
+## TODO
+
+- Implement mosaic related features
+- Multisig etc.
+
+
 ## Donation
 
 You like it? Please donate me from `Thanks!` page on this extension. It is a great motivation for my countinuous development. 
