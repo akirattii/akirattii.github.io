@@ -4,7 +4,7 @@
 
 ## What is this?
 
-[NEM Wallet Chrome Extension](https://chrome.google.com/webstore/) (Link to Chrome Webstore)  
+[NEM Wallet Chrome Extension](https://chrome.google.com/webstore/detail/nem-wallet/jkihcnfbojnfibinpkhnnacjffhhfhml) (Link to Chrome Webstore)  
   
 An NEM wallet chrome extension.
 By using this app, you can send & receive XEM so easily.

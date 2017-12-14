@@ -4,7 +4,7 @@
 
 ## これは何ですか？
 
-[Chrome拡張機能版NEMウォレット](https://chrome.google.com/webstore/) (Chromeウェブストア)  
+[Chrome拡張機能版NEMウォレット](https://chrome.google.com/webstore/detail/nem-wallet/jkihcnfbojnfibinpkhnnacjffhhfhml) (Chromeウェブストア)  
   
 Chrome拡張機能版のセキュアなNEMウォレットです。
 このアプリはXEMの管理や送受信をとても簡単にしてくれます。
