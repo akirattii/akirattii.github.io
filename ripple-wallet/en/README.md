@@ -26,6 +26,10 @@ All transactions are signed on your local, it never sends your private key to ne
 
 ## FAQ
 
+> What is TestNet?
+
+'TestNet' is an alternative network which is used for testing. Therefore XRP on TestNet is valueless for you. Now the default network's setting of this wallet app is **TestNet**. So please change the network setting on the settings page to **LiveNet** before you use it on real purpose.
+
 > Where is my private key stored?
 
 Your private key is encrypted by your passphrase then saved on localStorage of Chrome browser, so it is secure. Of course, you can also remove it from local whenever you want.
