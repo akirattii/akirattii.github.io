@@ -18,6 +18,8 @@ All transactions are signed on your local, so it NEVER sends your privateKey to 
 - Detailed Transactions View 
 - Addressbook
 - Keypair Generator
+- NIS Requesting Tool (for developers)
+
 
 
 ## Secure!
