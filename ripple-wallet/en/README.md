@@ -42,6 +42,10 @@ If you have entered incorrect passphrase on the entrance screen, your encrypted 
 
 Unfortunately, that is The END as usual with other cryptocurrencies. Just in case we recommend you save your secret seed as a screenshot image or a paper wallet on the safety place like a USB memory or your real wallet.
 
+> Open source?
+
+Yes. This wallet is a Chrome extension, which is *actually* open source software because you can read its source code whenever you want by *DevTool* the built-in debugger of Chrome browser. By use it, you can also watch the network use of this wallet by it. You can believe this wallet by auditing its code by yourself. It is definitely an open source software but keep in mind that its copyright is still owned by me. 
+
 ## Donation
 
 You like it? I hope your encouragement:
