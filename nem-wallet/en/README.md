@@ -45,7 +45,7 @@ Unfortunately, that is The END as usual with other cryptocurrencies. Just in cas
 
 > Open source?
 
-Actually **YES**. The reason of *Actually* is that this wallet is a Chrome extension which is *actually* open source software because you can not only read its source code but also its network use by using *DevTool* the built-in debugger of Chrome browser whenever you want. By auditing its code and behavior by yourself, you will trust it. It is definitely an open source software, however, keep in mind that the copyright of this wallet is still owned by me. 
+Actually **YES**. The reason of *Actually* is that this wallet is a Chrome extension which is *actually* open source software because you can read not only its source code but also its network use by using *DevTool* the built-in debugger of Chrome browser whenever you want. By auditing its code and behavior by yourself, you will trust it. It is definitely an open source software, however, keep in mind that the copyright of this wallet is still owned by me. 
 
 ## TODO
 
