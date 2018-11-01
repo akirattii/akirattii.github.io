@@ -2,6 +2,11 @@
   
   by [akirattii](https://plus.google.com/+AkiraTanakaakirattii)
 
+# 重要な告知
+
+**2018-10-31: 当Ripple/XRP用ウォレットの次期バージョンとなる [XRPmate.com](https://xrpmate.com) が遂にリリースされました。モバイル対応のWebアプリケーションとして生まれ変わり、更にセキュアなウォレットとなりました。これによりChrome拡張機能版ウォレットは今後アップデートされなくなります。今後は [XRPmate.com](https://xrpmate.com) をご利用ください。今後ともよろしくお願いいたします。** 
+
+
 ## これはなんですか？
 
 [Chrome拡張機能のRipple用ウォレット](https://chrome.google.com/webstore/detail/ripple-wallet/pbdihppojjickcoendiloibpjokjaobc?hl=ja&gl=JP) (Chromeウェブストアへのリンク)  

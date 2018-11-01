@@ -2,6 +2,10 @@
   
   by [akirattii](https://plus.google.com/+AkiraTanakaakirattii)
 
+# IMPORTANT
+
+**October 31, 2018: [XRPmate.com](https://xrpmate.com) The Next Generation Ripple/XRP wallet has been released. It's reborn as a mobile-friendly web application and more secure! Therefore, this Chrome extension wallet has been deprecated. Please use [XRPmate.com](https://xrpmate.com) from now on. Thank you :)** 
+
 
 ## What is this?
 
