@@ -5,3 +5,4 @@
 - [ripple-wallet](/ripple-wallet/index.html)
 - [monacoin-wallet](/monacoin-wallet/index.html)
 - [nem-wallet](/nem-wallet/index.html)
+- [最安値クイックサーチ](/saiyasu/index.html)
