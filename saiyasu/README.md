@@ -33,13 +33,16 @@
 
 ![検索](https://lh3.googleusercontent.com/6a4tWBTsrmxWgsojDSi5H4-q3ddwrWiuclZsuZqcHD1kmTS34drtQ9rbXuAVhvJci-c6t0Gu=w640-h400-e365)
 
-## 検索のヒント
+動画版はこちら: [最安値クイックサーチの使い方＠Youtube](https://youtu.be/ALQfY0xb37I)
+
+## 使い方のヒント
 
 ### サジェスト機能 
 検索キーワードの入力途中に`↓`カーソルボタンを押すと検索候補が表示されます。 ![サジェスト画面](https://lh3.googleusercontent.com/X7kidioFGUV7NDoid81Ge5UgJnAqsN7gIaHI7SPcaAVMmnqrsd1VJWAFDMlDBRMAtBU-LFhmmg=w640-h400-e365)
 
 ### QRコード、バーコード入力
 画像ファイルやカメラからQRコードやJANコードを読込むこともできます。 ![QRコード、バーコード入力パネル](https://lh3.googleusercontent.com/3J9XHA0jtcwP9sgZZp6vHKpQiI34Y8AfOWJ0laj7Zc23Gu7nYCKgHc-9H9pM2K3zUxiSIDQiZA=w640-h400-e365)
+
 
 # 設定
 
