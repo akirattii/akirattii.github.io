@@ -3,10 +3,15 @@ var cacheName = 'enjad-pwa';
 var filesToCache = [
   '/enjad/',
   '/enjad/index.html',
-  '/enjad/js/extlib/jquery/jquery-3.6.0.min.js',
-  '/enjad/js/extlib/popper.js/1.14.7/umd/popper.min.js',
-  '/enjad/js/extlib/bootstrap/4.3.1/css/bootstrap.min.css',
-  '/enjad/js/extlib/bootstrap/4.3.1/js/bootstrap.min.js',
+  '/enjad/favicon.ico',
+
+  // CDNs:
+  "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css",
+  "https://code.jquery.com/jquery-3.6.0.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js",
+  "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js",
+
+  // For apps:
   '/enjad/css/style.css',
   '/enjad/js/main.js',
   '/enjad/js/ejdic.js',
