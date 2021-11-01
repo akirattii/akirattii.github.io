@@ -17,16 +17,22 @@ window.onload = () => {
   $input.on("input", function(e) {
     // console.log("input e", e);
     const val = e.target.value;
-    const results = getResults(val ? val.trim() : "", isEnglishOnly(val));
-    setResultsToEl(results, val);
+    const isEnglish = isEnglishOnly(val);
+    const results = getResults(val ? val.trim() : "", isEnglish);
+    setResultsToEl(results, val, isEnglish);
   });
 
+  /**
+   * Check whether txt is an english sentense or not.
+   * @param  {String}  txt
+   * @return {Boolean} true: It's English!
+   */
   function isEnglishOnly(txt) {
     if (!txt) return false;
     return re_english_only.test(txt);
   }
 
-  function setResultsToEl(results, input) {
+  function setResultsToEl(results, input, isEnglish = true) {
     // once, clear the results.
     $results.html("");
     // loop results:
@@ -37,7 +43,8 @@ window.onload = () => {
       const txt = '<code>' + en + "</code> " + ja;
       $result.html(txt);
       $results.append($result);
-      markText($result[0], input);
+      if (!isEnglish)
+        markText($result[0], input);
     }
   }
 
@@ -65,8 +72,6 @@ window.onload = () => {
     }
     return ret;
   }
-
-
 
   /**
    * マッチテキストにマーカーを引く(markタグを付与)
