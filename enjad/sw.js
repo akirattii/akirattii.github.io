@@ -1,5 +1,7 @@
-var cacheName = 'hello-pwa';
+var cacheName = 'enjad-pwa';
+
 var filesToCache = [
+  '/enjad/',
   '/enjad/index.html',
   '/enjad/js/extlib/jquery/jquery-3.6.0.min.js',
   '/enjad/js/extlib/popper.js/1.14.7/umd/popper.min.js',
